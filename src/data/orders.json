@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "orderNumber": "ORD-2025-001",
+    "customerName": "John Smith",
+    "customerEmail": "john.smith@example.com",
+    "createdAt": "2025-01-12T10:15:00Z",
+    "status": "Paid",
+    "currency": "USD",
+    "amount": 1200.5
+  },
+  {
+    "id": 2,
+    "orderNumber": "ORD-2025-002",
+    "customerName": "Anna Müller",
+    "customerEmail": "anna.mueller@example.de",
+    "createdAt": "2025-01-14T14:40:00Z",
+    "status": "Pending",
+    "currency": "EUR",
+    "amount": 850.0
+  },
+  {
+    "id": 3,
+    "orderNumber": "ORD-2025-003",
+    "customerName": "Олександр Коваль",
+    "customerEmail": "oleksandr.koval@example.ua",
+    "createdAt": "2025-01-18T09:05:00Z",
+    "status": "Paid",
+    "currency": "UAH",
+    "amount": 15400.75
+  },
+  {
+    "id": 4,
+    "orderNumber": "ORD-2025-004",
+    "customerName": "Emily Brown",
+    "customerEmail": "emily.brown@example.com",
+    "createdAt": "2025-01-20T16:30:00Z",
+    "status": "Cancelled",
+    "currency": "USD",
+    "amount": 299.99
+  },
+  {
+    "id": 5,
+    "orderNumber": "ORD-2025-005",
+    "customerName": "Pierre Dubois",
+    "customerEmail": "p.dubois@example.fr",
+    "createdAt": "2025-01-22T11:55:00Z",
+    "status": "Paid",
+    "currency": "EUR",
+    "amount": 2300.0
+  }
+]
